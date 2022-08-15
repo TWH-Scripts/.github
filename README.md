@@ -7,7 +7,7 @@ Selling and publishing scripts from time to time
 
 ### Developers
      
-  - [Dietrich](https://github.com/Dietrich-io) \[ **founder** \]
+  - [Dietrich](https://github.com/Dietrich-io) `founder `
 
 
 ### SUPPORT
