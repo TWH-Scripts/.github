@@ -8,6 +8,7 @@ Selling and publishing scripts from time to time
 ### Developers
      
   * [Dietrich](https://github.com/Dietrich-io) \[**founder**\]
+  * [Julian](https://github.com/JulianLegler) \[**developer**\]
 
 
 ### SUPPORT
